@@ -2,11 +2,15 @@
   "title": "Daggerheart",
   "id": "daggerheart",
   "system": "worldbuilding",
+  "author": "GM Comfortable Grey"
+  "description": "A Simple Worldbuilding system hack for the Daggerheart beta playtest."
+  "version": "1.0.0"
   "joinTheme": "default",
   "coreVersion": "11.309",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
+    "url": "https://github.com/ComfortableGreySloth/FoundryVTTDaggerheartSWB/blob/main/world.json"
   },
   "systemVersion": "0.8.2",
   "lastPlayed": "Tue Mar 19 2024 19:10:32 GMT+0000 (Coordinated Universal Time)",
