@@ -1,0 +1,25 @@
+2024/03/19-16:08:38.939421 7f5870d43b38 Recovering log #135
+2024/03/19-16:08:38.941344 7f5870d43b38 Level-0 table #137: started
+2024/03/19-16:08:38.948356 7f5870d43b38 Level-0 table #137: 23922 bytes OK
+2024/03/19-16:08:38.964837 7f5870d43b38 Delete type=0 #135
+2024/03/19-16:08:38.965918 7f5870d43b38 Delete type=3 #134
+2024/03/19-19:10:32.865816 7f55efa43b38 Level-0 table #140: started
+2024/03/19-19:10:32.872866 7f55efa43b38 Level-0 table #140: 24104 bytes OK
+2024/03/19-19:10:32.877548 7f55efa43b38 Delete type=0 #138
+2024/03/19-19:10:32.909311 7f55efa43b38 Manual compaction at level-0 from '!macros!0MJl2gZuC6g6PEYh' @ 72057594037927935 : 1 .. '!macros!xbFuLNDzJ2zCuVBk' @ 0 : 0; will stop at '!macros!PRSC2C7VUZHEOVGP' @ 446 : 1
+2024/03/19-19:10:32.909395 7f55efa43b38 Compacting 2@0 + 0@1 files
+2024/03/19-19:10:32.917501 7f55efa43b38 Generated table #141@0: 16 keys, 20615 bytes
+2024/03/19-19:10:32.917603 7f55efa43b38 Compacted 2@0 + 0@1 files => 20615 bytes
+2024/03/19-19:10:32.919265 7f55efa43b38 compacted to: files[ 0 1 2 0 0 0 0 ]
+2024/03/19-19:10:32.920224 7f55efa43b38 Delete type=2 #140
+2024/03/19-19:10:32.920776 7f55efa43b38 Delete type=2 #137
+2024/03/19-19:10:32.939644 7f55efa43b38 Manual compaction at level-0 from '!macros!PRSC2C7VUZHEOVGP' @ 446 : 1 .. '!macros!xbFuLNDzJ2zCuVBk' @ 0 : 0; will stop at (end)
+2024/03/19-19:10:32.951891 7f55efa43b38 Manual compaction at level-1 from '!macros!0MJl2gZuC6g6PEYh' @ 72057594037927935 : 1 .. '!macros!xbFuLNDzJ2zCuVBk' @ 0 : 0; will stop at '!macros!raRuCzYmf8LV3bJx' @ 438 : 1
+2024/03/19-19:10:32.952020 7f55efa43b38 Compacting 1@1 + 2@2 files
+2024/03/19-19:10:32.961628 7f55efa43b38 Generated table #142@1: 43 keys, 48631 bytes
+2024/03/19-19:10:32.961704 7f55efa43b38 Compacted 1@1 + 2@2 files => 48631 bytes
+2024/03/19-19:10:32.966186 7f55efa43b38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/19-19:10:32.967296 7f55efa43b38 Delete type=2 #92
+2024/03/19-19:10:32.967915 7f55efa43b38 Delete type=2 #141
+2024/03/19-19:10:32.970009 7f55efa43b38 Delete type=2 #133
+2024/03/19-19:10:32.989220 7f55efa43b38 Manual compaction at level-1 from '!macros!raRuCzYmf8LV3bJx' @ 438 : 1 .. '!macros!xbFuLNDzJ2zCuVBk' @ 0 : 0; will stop at (end)

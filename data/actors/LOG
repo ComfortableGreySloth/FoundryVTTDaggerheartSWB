@@ -1,0 +1,24 @@
+2024/03/19-16:08:38.072807 7f5871546b38 Recovering log #152
+2024/03/19-16:08:38.083033 7f5871546b38 Level-0 table #154: started
+2024/03/19-16:08:38.122906 7f5871546b38 Level-0 table #154: 862334 bytes OK
+2024/03/19-16:08:38.138247 7f5871546b38 Delete type=3 #151
+2024/03/19-16:08:38.139546 7f5871546b38 Delete type=0 #152
+2024/03/19-17:41:24.896389 7f55efa43b38 Moved #154 to level-1 862334 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2024/03/19-19:01:53.311736 7f55efa43b38 Compacting 1@1 + 1@2 files
+2024/03/19-19:01:53.332112 7f55efa43b38 Generated table #156@1: 78 keys, 109928 bytes
+2024/03/19-19:01:53.332225 7f55efa43b38 Compacted 1@1 + 1@2 files => 109928 bytes
+2024/03/19-19:01:53.334534 7f55efa43b38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/19-19:01:53.337878 7f55efa43b38 Delete type=2 #150
+2024/03/19-19:01:53.338844 7f55efa43b38 Delete type=2 #154
+2024/03/19-19:10:32.712189 7f55efa43b38 Level-0 table #158: started
+2024/03/19-19:10:32.739611 7f55efa43b38 Level-0 table #158: 342224 bytes OK
+2024/03/19-19:10:32.743118 7f55efa43b38 Delete type=0 #155
+2024/03/19-19:10:32.744118 7f55efa43b38 Manual compaction at level-0 from '!actors!21fF2KcCG2s50t6X' @ 72057594037927935 : 1 .. '!actors.items!xhJ4uSyfsqdtuxQH.rUjCn1lIpbgNnHcP' @ 0 : 0; will stop at (end)
+2024/03/19-19:10:32.744367 7f55efa43b38 Manual compaction at level-1 from '!actors!21fF2KcCG2s50t6X' @ 72057594037927935 : 1 .. '!actors.items!xhJ4uSyfsqdtuxQH.rUjCn1lIpbgNnHcP' @ 0 : 0; will stop at '!actors.items!g5cY2Px3CFvaIzcK.q3fvh9wOxxqbtlZe' @ 5215 : 1
+2024/03/19-19:10:32.744514 7f55efa43b38 Compacting 1@1 + 1@2 files
+2024/03/19-19:10:32.763172 7f55efa43b38 Generated table #159@1: 90 keys, 125693 bytes
+2024/03/19-19:10:32.763241 7f55efa43b38 Compacted 1@1 + 1@2 files => 125693 bytes
+2024/03/19-19:10:32.764695 7f55efa43b38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/19-19:10:32.765801 7f55efa43b38 Delete type=2 #156
+2024/03/19-19:10:32.766564 7f55efa43b38 Delete type=2 #158
+2024/03/19-19:10:32.799485 7f55efa43b38 Manual compaction at level-1 from '!actors.items!g5cY2Px3CFvaIzcK.q3fvh9wOxxqbtlZe' @ 5215 : 1 .. '!actors.items!xhJ4uSyfsqdtuxQH.rUjCn1lIpbgNnHcP' @ 0 : 0; will stop at (end)
