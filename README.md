@@ -3,39 +3,39 @@ This is my Simple Worldbuilding hack for the Daggerheart RPG beta playtest. It o
 
 In order to install this you will need to download and install FoundryVTT v11. Within FoundryVTT install the "Simple Worldbuilding" system, and the following modules:
 
-Auto-Rotate
-Break Time
-Dice so Nice!
-Dice Tray
-Drag Upload (Get Over Here!)
-Effect Macro
-Follow Me!
-Item Macro
-Jack Kerouac's Animated Spell Effects
-Jack Kerouac's Animated Spell Effects: Cartoon
-Jack Kerouac's Animated Tokens
-JB2A - Jules and Ben's Animated Assets - Free Content
-Lancer Initiative
-libWrapper
-Patrol
-Pings
-Polyglot
-PopOut!
-Popout Resizer
-Sequencer
-Settings Extender
-Simple Worldbuilding Plus
-socketlib
-Tagger
-Template Macro
-The Forge
-Tidy UI - Game Settings
-Token Attacher
-Token Auras
-Tokenizer
-Token Magic FX
-Token Says
-Token Z
+Auto-Rotate,
+Break Time,
+Dice so Nice!,
+Dice Tray,
+Drag Upload (Get Over Here!),
+Effect Macro,
+Follow Me!,
+Item Macro,
+Jack Kerouac's Animated Spell Effects,
+Jack Kerouac's Animated Spell Effects: Cartoon,
+Jack Kerouac's Animated Tokens,
+JB2A - Jules and Ben's Animated Assets - Free Content,
+Lancer Initiative,
+libWrapper,
+Patrol,
+Pings,
+Polyglot,
+PopOut!,
+Popout Resizer,
+Sequencer,
+Settings Extender,
+Simple Worldbuilding Plus,
+socketlib,
+Tagger,
+Template Macro,
+The Forge,
+Tidy UI - Game Settings,
+Token Attacher,
+Token Auras,
+Tokenizer,
+Token Magic FX,
+Token Says,
+Token Z,
 Warp Gate
 
 Then create a world with the title "Daggerheart" and close FoundryVTT. Download the zip within this repository. Unzip the "daggerheart" folder into your FoundryVTT world folder, and overwrite everything. You should be able to open the world, update it to your version, and  then play!
