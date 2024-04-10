@@ -5,6 +5,7 @@ In order to install this you will need to download and install FoundryVTT v11. W
 
 Auto-Rotate,
 Break Time,
+Card Hand Mini Toolbar,
 Dice so Nice!,
 Dice Tray,
 Drag Upload (Get Over Here!),
