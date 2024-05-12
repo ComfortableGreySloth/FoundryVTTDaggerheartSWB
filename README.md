@@ -42,6 +42,10 @@ Token Says,
 Token Z,
 Warp Gate
 
+---Playtest v1.4.1 Updates---
+
+Cleaned up some of the macros, character sheets, and items.
+
 ---Playtest v1.4 Updates!---
 
 Then create a world with the title "Daggerheart" and close FoundryVTT. Download the zip within this repository. Unzip the "daggerheart" folder into your FoundryVTT world folder, and overwrite everything. You should be able to open the world, update it to your version, and  then play!
