@@ -4,6 +4,7 @@ This is my Simple Worldbuilding hack for the Daggerheart RPG beta playtest. It o
 In order to install this you will need to download and install FoundryVTT v11. Within FoundryVTT install the "Simple Worldbuilding" system, and the following modules:
 
 Auto-Rotate,
+Bar Brawl,
 Break Time,
 Card Hand Mini Toolbar,
 Dice so Nice!,
@@ -11,6 +12,7 @@ Dice Tray,
 Drag Upload (Get Over Here!),
 Effect Macro,
 Follow Me!,
+Freeform Character Sheet,
 Item Macro,
 Jack Kerouac's Animated Spell Effects,
 Jack Kerouac's Animated Spell Effects: Cartoon,
@@ -40,6 +42,8 @@ Token Says,
 Token Z,
 Warp Gate
 
+---Playtest v1.4 Updates!---
+
 Then create a world with the title "Daggerheart" and close FoundryVTT. Download the zip within this repository. Unzip the "daggerheart" folder into your FoundryVTT world folder, and overwrite everything. You should be able to open the world, update it to your version, and  then play!
 
 This product was created using the Darrington Press Community Gaming License. The Daggerheart Open Beta Materials are owned and copyrighted by Darrington Press, LLC. All rights reserved.
@@ -47,6 +51,28 @@ This product was created using the Darrington Press Community Gaming License. Th
 This product is based on the following Public Game Content created and owned by Darrington Press: Daggerheart Open Beta Materials, Darrington Press, LLC, 2024, available at daggerheart.com
 
 This product is Adaptive from or based on content created and owned by Darrington Press. Daggerheart Open Beta Materials, Darrington Press, LLC, 2024, available at daggerheart.com.
+
+v1.4 Update Notes:
+
+Updated ALL MACROS! They now use either the first selected token, or if no token is selected then they use the actor assigned to that player. Animations may still require a token selected, but the rolling is now good for it. This is most useful for the GM, and makes it possible for players to control multiple tokens (but also has the risk of rolling from the wrong ones.)
+
+Added a Freeform Sheet for v1.3, it is now broken so you don't need the module but it might be worth fixing. Also added "Bar Brawl" so you can easily see a character's status.
+
+Created a "Trait Dialog" macro so players can have one hotkey for all the traits, which leaves 9 buttons for other hotkey slots. Updated the advantage, and disadvantage to use v1.4 rules and incorporated them into this dialog, and the trait rolls. The class templates were deleted, and not updated, but in the "GM Only" macro folder there is an easy way to add them to a character sheet instead of using the sheet itself. These are the "Experience, Background, and Connection Modifier" macro, and the "Freeform Sheet Trait Adjuster" macro.
+
+Fixed the Beastform item macro, and created guidelines for adding new forms which includes changing the radius, and making the player token invisible, so the level 1 tokens are actually small and you can make the higher level beastforms larger.
+
+Tore down my monoliths, reconfigured the character sheet (shoutout to my player K2 for their CSS) and made more modular macros which refer to one another. This was a lot of work but it will save A LOT of work for higher level play. Created the possibility of "sheet reference" macros, but this also reduced the ability to use macros from the hotkey bar. Win some, lose some; to accommodate this I created a "Macro Hotkey Template" where you replace the UUID with the item from the item tab. It does not work with item UUIDs from the character sheet. Updated all ancestries, communities, classes, subclasses, and domains to the new format. Added the "mixed ancestry" (an example "sheet reference" macro) and made all ancestry features their own item, so when you have a mixed ancestry you can customize it on the character sheet.   
+
+Changed the PC weapon macros so that the number of dice (per proficiency) is shown. These can only be rolled from the chat, if you want to use the character sheet you need to use the "Damage Dice" formula button from the character, not the buttons from the item sheet.
+
+Made armors equippable, and unequippable through their item macro! Much appreciation to u/probabilityunicorn for highlighting this flaw in the system, as well as other bugs early in development. A macro for shields was made and does work, but isn't implemented.
+
+Added all of the treasure from the roll table! My suggestion is to have the players roll 1 or more d12, then change the roll table formula to their result and "roll" so they get to see their reward. Then add it to their sheet. High probability that I missed any of these treasure changes if they happened in v1.4.
+
+Created a new "NPC Weapon Template" to make rolling and animating their attacks easier. Added an "Environment Template" but no environments.
+
+Quickstart Adventure, Class Templates, Ranger Companion Template, and cards are not updated to the v1.4 version, I thought it was better to get this released (similar to what they did for v1.3!) This may come out in a later update, but more likely I will be shifting my focus to the small team of people actually working on a dedicated Daggerheart system for Foundry!
 
 ---Playtest v1.3 Updates!---
 
