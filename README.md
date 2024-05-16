@@ -42,6 +42,17 @@ Token Says,
 Token Z,
 Warp Gate
 
+---Playtest v1.4.2 HOTFIX---
+
+1) The world is now called "Daggerheart v1.4" if you want to import it to Foundry you will need to either change the world's data, or make a new world with this name. This will also prevent you from overwriting your old world.
+2) Fixed a bunch of the items and permissions, so it should work right out of the box
+3) My player K2 helped with a lot of the data entry, specifically updating the pregen characters. Thank you!
+4) Huge update to the roller macro, it can now handle experiences, and custom modifiers as well as whether someone is targeted or not, and appearing as a single chat message.
+5) Fixed the trait adjuster macro so it can handle negative adjustments (such as setting a starting trait to "-1)
+6) Created a bulk hotkey macro importer, this will make it relatively easy to create the hotkey macros for your player's items
+7) Updated quickstart adversaries, some of the links are broken but you won't be using them anyway
+8) There is a request to have automatic hope added, or stress removed on rolls with hope or crit successes. I have decided NOT to implement this (it is easy to do so) because I've noticed my players like to do test rolls, and they would just mess up their stats. If there is enough demand I will see about adding the buttons to the roll flavor text.
+
 ---Playtest v1.4.1 Updates---
 
 Cleaned up some of the macros, character sheets, and items.
