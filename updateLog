@@ -1,3 +1,24 @@
+---Playtest v1.4.3 Update---
+Updated all cards to their most recent version, and reorganized these vaults to include all cards. Removed all default user slots except for the GM, and kept only the pregen vaults and hands. This should be enough to create your own for your players.
+
+Significant update to rolls, now outputs an additional chat message for convenient access to stress removal on crits, or adding hope for crits and rolls with hope, or adding fear (latter of which is just visible to the GM.) Expanded names in smaller trait roll button boxes, but had to keep them abbreviated for the universal roller. Small change that the flavor text for rolls now includes Hope and Fear results.
+
+Added level 2 domains! Thank you K2 for spearheading this, as well as all your additional efforts.
+
+All (most?) item descriptions now have clickable macros where applicable, for trait rolling or resource changes.
+
+Added art for Sablewood critters, and some maps for expanding your adventure beyond the QuickStart. I took some liberties by combining beautiful artwork by Reddit users u/RavenA04, u/Spritzertog and the Open Manuscript, there are changes between my world and the official setting descriptions which you can find in the journal and I hope you will enjoy. 
+
+Added random encounter roll tables for a hex crawl style adventure across the Sablewood.
+
+Updated journals and adversaries. Added ALL treasures and consumables (but not higher level armor and weapons) including simple text macros, and roll tables.
+
+Checked the world for v11 and v12 compatibility, this is native to v11 but if you install v12 it will automatically update it and it should still work!
+
+Added functionality for the "BarBrawl" module, characters should now be able to see their resources by mousing over their tokens. 
+
+Separated the ReadMe into the wiki (for installation and usage guides), and UpdateLog (which you are reading now.) ReadMe now simply contains the scope and mission of this project. 
+
 ---Playtest v1.4.2 HOTFIX---
 
 1) The world is now called "Daggerheart v1.4" if you want to import it to Foundry you will need to either change the world's data, or make a new world with this name. This will also prevent you from overwriting your old world.
