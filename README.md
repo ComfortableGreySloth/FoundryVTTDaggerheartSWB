@@ -3,7 +3,7 @@ This is my Simple Worldbuilding hack for the Daggerheart RPG beta playtest. It o
 
 Much gratitude goes to K2 for his collaboration in this project, and my players for assistance in playtesting.
 
-In order to install this please refer to the Wiki: https://github.com/ComfortableGreySloth/FoundryVTTDaggerheartSWB.wiki.git
+In order to install this please refer to the Wiki: https://github.com/ComfortableGreySloth/FoundryVTTDaggerheartSWB.wiki
 
 Note that you will want the following modules, and I also suggest you have the DnD5e and PF2e systems installed (I use some art assets from each in this latest version)
  
