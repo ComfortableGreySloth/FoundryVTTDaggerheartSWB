@@ -13,13 +13,13 @@ Note that you will want the following modules, and I also suggest you have the D
 4. Jack Kerouac's Animated Spell Effects: Cartoon https://foundryvtt.com/packages/animated-spell-effects-cartoon  
 5. Jack Kerouac's Animated Tokens https://foundryvtt.com/packages/animated-tokens  
 6. JB2A - Jules and Ben's Animated Assets - Free Content https://foundryvtt.com/packages/JB2A_DnD5e  
-7. libWrapper https://foundryvtt.com/packages/lib-wrapper  
-8. Sequencer https://foundryvtt.com/packages/sequencer  
-9. Simple Worldbuilding Plus https://foundryvtt.com/packages/simple-worldbuilding-plus  
-10. socketlib https://foundryvtt.com/packages/socketlib  
-11. Tagger https://foundryvtt.com/packages/tagger  
-12. The Forge (Only required for use on Forge)  
-13. Warp Gate https://foundryvtt.com/packages/warpgate  
+7. libWrapper https://foundryvtt.com/packages/lib-wrapper
+8. Portal https://foundryvtt.com/packages/portal-lib
+9. Sequencer https://foundryvtt.com/packages/sequencer  
+10. Simple Worldbuilding Plus https://foundryvtt.com/packages/simple-worldbuilding-plus  
+11. socketlib https://foundryvtt.com/packages/socketlib  
+12. Tagger https://foundryvtt.com/packages/tagger  
+13. The Forge (Only required for use on Forge)
 
 
 This product was created using the Darrington Press Community Gaming License. The Daggerheart Open Beta Materials are owned and copyrighted by Darrington Press, LLC. All rights reserved.
