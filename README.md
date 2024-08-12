@@ -27,3 +27,5 @@ This product was created using the Darrington Press Community Gaming License. Th
 This product is based on the following Public Game Content created and owned by Darrington Press: Daggerheart Open Beta Materials, Darrington Press, LLC, 2024, available at daggerheart.com
 
 This product is Adaptive from or based on content created and owned by Darrington Press. Daggerheart Open Beta Materials, Darrington Press, LLC, 2024, available at daggerheart.com.
+
+NOTE: Fear and Progress token macros are currently nonfunctioning, but also are pretty easy to handle manually so, later.
